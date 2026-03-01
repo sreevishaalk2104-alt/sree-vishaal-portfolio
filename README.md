@@ -1,55 +1,76 @@
-# sree-vishaal-portfolio
 # Sree Vishaal M
-## AI Automation Internship Portfolio
 
-### About Me
-Second-year B.Tech IT student passionate about Artificial Intelligence and Automation Systems. Seeking AI Automation Internship to apply AI-driven workflow optimization concepts in real-world environments.
+Second-year B.Tech Information Technology student with a strong interest in Data Analytics and Artificial Intelligence. Skilled in Python and C++ with foundational knowledge in structured data analysis and automation concepts. Passionate about solving real-world problems using analytical thinking and AI-driven systems.
 
 ---
 
-## Technical Skills
+## 🚀 Technical Skills
+
+- C++
+- Python (Basics)
+- Data Analytics
 - Artificial Intelligence Fundamentals
-- AWS Cloud Practitioner Essentials
-- Cybersecurity Fundamentals
-- Workflow Analysis & Automation Logic
+- Automation Concepts
+- AWS Cloud Basics
+- Git & GitHub
+- VS Code
 
 ---
 
-## AI Automation Projects
+## 💡 Projects
 
-### 1. Smart Workflow Automation Model
-Designed a workflow optimization system identifying repetitive industrial tasks and proposing automation logic to improve efficiency.
+### 🏥 Clinical Analyzer – AI-Based Report Analysis System
+Developed a structured AI-based system to analyze clinical input data and generate logical health insights.
 
-Key Highlights:
-- Process segmentation
-- Automation opportunity detection
-- Efficiency improvement model
-
----
-
-### 2. Intelligent File Automation Concept
-Developed automation logic to classify and organize digital files automatically based on patterns, reducing manual effort.
-
-Key Highlights:
-- Automatic categorization
-- Folder structuring
-- Digital workflow enhancement
+**Key Highlights:**
+- Processed structured clinical input data
+- Applied rule-based automation logic
+- Generated automated interpretation reports
+- Designed user-friendly input workflow
 
 ---
 
-## Work Experience
-Intern – SPIC (Southern Petrochemical Industries Corporation)
-Observed real-time industrial IT workflows and system coordination.
+### 📊 IdeaGraveyard – Startup Failure Analysis Platform
+Built a centralized platform to analyze startup failures and identify patterns through structured categorization.
+
+**Key Highlights:**
+- Structured idea submission system
+- Categorized startup failure reasons
+- Centralized data repository
+- Analytical review of failure patterns
 
 ---
 
-## Certifications
+## 🏢 Work Experience
+
+**Intern – SPIC (Southern Petrochemical Industries Corporation)**  
+*June 2025 – 23 Days*
+
+- Examined industrial IT systems and workflow architecture
+- Analyzed operational efficiency strategies
+- Observed enterprise-level system coordination
+- Gained exposure to structured industrial environments
+
+---
+
+## 📜 Certifications
+
+- Microsoft – Unlocking AI for Everyone
 - AWS Cloud Practitioner Essentials
 - AI Literacy – IBM SkillsBuild
-- Cybersecurity Fundamentals – IBM
-- Fundamentals of AI – NPTEL
+- Fundamentals of Artificial Intelligence – NPTEL
 
 ---
 
-## Achievements
+## 🏆 Achievements
+
 - Semi-Finalist – Smart India Hackathon 2025
+- Active Participant in AI & Technical Hackathons
+
+---
+
+## 📫 Contact
+
+- Email: sreevishaalk2104@gmail.com
+- LinkedIn: (www.linkedin.com/in/sree-vishaal-m-364053327)
+- GitHub: (https://github.com/sreevishaalk2104-alt)
