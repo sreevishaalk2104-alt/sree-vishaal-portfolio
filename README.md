@@ -84,12 +84,12 @@ GitHub: https://github.com/sreevishaalk2104-alt/DriveGuard-AI-
 
 ## 📜 Certifications
 
-AWS Cloud Practitioner Essentials – AWS.
-AI Literacy – IBM SkillsBuild.
-Cybersecurity Fundamentals – IBM SkillsBuild.
-Fundamentals of Artificial Intelligence – NPTEL.
-Unlocking AI for Everyone – Microsoft.
-Introduction to Data Analytics for Government – Udemy.
+- AWS Cloud Practitioner Essentials – AWS
+- AI Literacy – IBM SkillsBuild
+- Cybersecurity Fundamentals – IBM SkillsBuild
+- Fundamentals of Artificial Intelligence – NPTEL
+- Unlocking AI for Everyone – Microsoft
+- Introduction to Data Analytics for Government – Udemy
 ---
 
 ## 🏆 Achievements
